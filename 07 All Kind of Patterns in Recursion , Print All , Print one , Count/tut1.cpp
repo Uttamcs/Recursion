@@ -1,3 +1,5 @@
+// Print all the subsequence of array whose sum is equal to n 
+
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
